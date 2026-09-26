@@ -1,2 +1,0 @@
-log = aaaaass
-pass = 324524
